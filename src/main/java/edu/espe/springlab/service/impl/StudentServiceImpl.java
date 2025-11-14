@@ -3,7 +3,7 @@ package edu.espe.springlab.service.impl;
 import edu.espe.springlab.domain.Student;
 import edu.espe.springlab.dto.StudentRequestData;
 import edu.espe.springlab.dto.StudentResponse;
-import edu.espe.springlab.repository.StudentRepository;
+import edu.espe.springlab.respository.StudentRepository;
 import edu.espe.springlab.service.StudentService;
 import edu.espe.springlab.web.advice.ConflictException;
 import edu.espe.springlab.web.advice.NotFoundException;

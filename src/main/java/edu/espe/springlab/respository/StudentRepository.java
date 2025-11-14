@@ -1,4 +1,4 @@
-package edu.espe.springlab.repository;
+package edu.espe.springlab.respository;
 
 import edu.espe.springlab.domain.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
